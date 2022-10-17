@@ -5,5 +5,5 @@
 
 ## Contact us
 
-- Email: [{{site.Email}}](mailto:{{site.Email}})
-- Twitter: [{{site.Twitter}}]({{site.Twitter}})
+- Email: [{{site.email}}](mailto:{{site.email}})
+- Twitter: [{{site.twitter}}]({{site.twitter}})
