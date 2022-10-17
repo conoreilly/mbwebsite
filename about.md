@@ -1,9 +1,9 @@
 # About
 
 ## Project
-This is all the MB O'Reilly info you might need
+{{site.description}}
 
 ## Contact us
 
-- Email: [mb@mboreilly.com](mailto:me@mboreilly.com)
-- Twitter: [@mb_oreilly](https://twitter.com/mb_oreilly)
+- Email: [{{site.Email}}](mailto:{{site.Email}})
+- Twitter: [{{site.Twitter}}]({{site.Twitter}})
