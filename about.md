@@ -6,7 +6,5 @@
 ## Project
 {{site.description}}
 
-## Contact us
+{% include footer.html %}
 
-- Email: [{{ site.email }}](mailto:{{ site.email }})
-- Twitter: [{{ site.twitter_name }}]({{ site.twitter }})
