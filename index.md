@@ -1,3 +1,6 @@
+
+{% include navigation.html %}
+
 # place holder text
 
 ## description
