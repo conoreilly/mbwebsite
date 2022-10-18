@@ -1,10 +1,10 @@
-
-{% include navigation.html %}
+---
+layout: default
+---
 
 # About
 
 ## Project
 {{site.description}}
 
-{% include footer.html %}
 
