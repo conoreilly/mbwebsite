@@ -3,6 +3,10 @@ email: "mb@mboreilly.com"
 twitter: "https://twitter.com/mb_oreilly"
 twitter_name: "@mb_oreilly"
 
+url: "https://conoreilly.github.io"
+baseurl: "/mbwebsite"
+
+
 collections:
  blogposts:
   output: true
