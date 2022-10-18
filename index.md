@@ -1,6 +1,6 @@
 ---
 layout: home
-title: home
+title: Home
 ---
 
 # place holder text
