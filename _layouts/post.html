@@ -3,6 +3,6 @@ layout: default
 ---
 
 <strong>Author:</strong> {{ page.author }}
-Published on {{ page.date }}
+Published on {{ page.date | date_to_long_string: "ordinal" }}
 
 {{ content }}
