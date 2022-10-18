@@ -8,6 +8,6 @@ baseurl: "/mbwebsite"
 
 
 collections:
- blogposts:
+ posts:
   output: true
   
