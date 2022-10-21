@@ -1,0 +1,10 @@
+---
+layout: default
+---
+
+This is a page
+
+<strong>Author:</strong> {{ page.author }}
+Published on {{ page.date | date_to_long_string: "ordinal" }}
+
+{{ content }}
