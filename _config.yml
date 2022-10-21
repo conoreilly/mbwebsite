@@ -6,6 +6,7 @@ twitter_name: "@mb_oreilly"
 url: "https://conoreilly.github.io"
 baseurl: "/mbwebsite"
 
+include: ["_pages"]
 
 collections:
  posts:
