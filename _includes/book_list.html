@@ -1,0 +1,16 @@
+<h2>Books</h2>
+<ul>
+
+{% assign pages_list = category["book"] %}
+
+{% for post in pages_list %}
+<li>{{ post.date | date_to_string }}: <a href="{{ post.url | relative_url }}">{{ post.title }}</a></li>
+{% endfor %}
+
+</ul>
+
+{% assign pages_list = nil %}
+
+
+        
+        
