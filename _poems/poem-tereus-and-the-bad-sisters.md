@@ -1,7 +1,7 @@
 ---
 title: "Tereus and the Bad Sisters"
 layout: page
-categories: [ poem ]
+
 ---
 
 'Tereus and the Bad Sisters' placeholder cover

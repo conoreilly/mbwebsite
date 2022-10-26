@@ -1,7 +1,7 @@
 ---
 title: "I, Medusa"
 layout: page
-categories: [ poem ]
+
 ---
 
 'I, Medusa' placeholder cover

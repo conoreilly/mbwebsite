@@ -11,4 +11,8 @@ include: ["_pages"]
 collections:
  posts:
   output: true
+ books:
+  output: true
+poems:
+  output:true
   

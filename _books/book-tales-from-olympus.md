@@ -1,7 +1,7 @@
 ---
 title: "Tales from Olympus"
 layout: page
-categories: [ book ]
+
 ---
 
 'Tales from Olympus' placeholder cover
