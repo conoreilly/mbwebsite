@@ -14,5 +14,5 @@ collections:
  books:
   output: true
  poems:
-  output:true
+  output: true
 
