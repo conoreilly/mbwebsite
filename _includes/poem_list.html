@@ -3,7 +3,7 @@
 
 {% for poem in site.poems %}
   <!--- <li>{{ book.title }}: <a href="{{ post.url | relative_url }}">{{ book.title }}</a></li> --->
-  <li>{{ poem.title }}</li>
+  <li>{{ poem.title }}: <a href="{{ poem.url }}">{{ poem.title }}</a></li>
 {% endfor %}
 
 </ul>
