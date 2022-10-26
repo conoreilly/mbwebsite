@@ -9,7 +9,7 @@ poems go here
 
 more to add here!
 
-{% include post_list.html %}
+{% include poem_list.html %}
 
 See the [About page](about).
 

@@ -1,0 +1,9 @@
+<h2>Poems</h2>
+<ul>
+
+{% for poem in site.poems %}
+  <!--- <li>{{ book.title }}: <a href="{{ post.url | relative_url }}">{{ book.title }}</a></li> --->
+  <li>{{ poem.title }}</li>
+{% endfor %}
+
+</ul>
