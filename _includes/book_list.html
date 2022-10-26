@@ -3,7 +3,7 @@
 
 {% for book in site.books %}
   <!--- <li>{{ book.title }}: <a href="{{ post.url | relative_url }}">{{ book.title }}</a></li> --->
-  <li>{{ book.title }}: <a href="{{ book.url }}">{{ book.title }}</a></li>
+  <li>{{ book.title }}: <a href="{{ site.baseurl }}{{ book.url }}">{{ book.title }}</a></li>
 {% endfor %}
 
 </ul>
