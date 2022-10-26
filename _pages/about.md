@@ -3,6 +3,8 @@ layout: default
 title: About
 
 permalink: "/about.html"
+ref: about
+order: 0
 
 ---
 
@@ -11,3 +13,4 @@ permalink: "/about.html"
 {{site.description}}
 
 
+[Go to the Home Page]({{ '/' | absolute_url }})

@@ -1,10 +1,10 @@
 ---
 layout: default
 ---
+<article>
 
-This is a page
+  <div>
+    {{ content }}
+  </div>
 
-<strong>Author:</strong> {{ page.author }}
-Published on {{ page.date | date_to_long_string: "ordinal" }}
-
-{{ content }}
+</article>
