@@ -1,4 +1,4 @@
-# M.B. O'reilly's website
+# M.B. O'Reilly's website
 
 Wee website developed for MB O'Reilly to use to show off her writing.
 
