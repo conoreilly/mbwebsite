@@ -121,7 +121,7 @@
                 {% endif %}
                 
                 <!-- Contact icon -->
-                {% assign contact_page = site.pages | where: "path", "contact.md" | first %}
+                {% assign contact_page = site.pages | where: "path", "_pages/contact.md" | first %}
                 {% if contact_page.title %}
                 <span class="my-span-icon">
                     <a href="{{ contact_page.url | absolute_url }}" aria-label="Contact" title="Contact {{ site.author_name }}">
