@@ -1,7 +1,7 @@
 ---
 title: "Tales from Olympus"
 layout: page
-
+date: 2008-03-01
 ---
 
 'Tales from Olympus' placeholder cover

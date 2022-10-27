@@ -6,7 +6,7 @@
     <li>
 
       {% assign date_format = site.cayman-blog.date_format | default: "%b %-d, %Y" %}
-      <span class="post-meta">{{ post.date | date: date_format }}</span>
+      <span class="post-meta">{{ book.date | date: date_format }}</span>
 
       <h2>
         <a class="post-link" href="{{ book.url | absolute_url }}" title="{{ book.title }}">{{ book.title | escape }}</a>
