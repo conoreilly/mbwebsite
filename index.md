@@ -3,10 +3,7 @@ layout: home
 title: Home
 ---
 
-
-{{ site.description}}
-
-
+Keep up to date on my writing, as well as where to buy my books!
 
 
 
