@@ -2,6 +2,8 @@
 layout: default
 title: Poems
 permalink: "/poems.html"
+ref: poems
+order: 2
 ---
 
 # place holder text

@@ -1,7 +1,6 @@
 ---
 layout: default
 title: About
-
 permalink: "/about.html"
 ref: about
 order: 0

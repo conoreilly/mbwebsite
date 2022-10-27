@@ -2,6 +2,8 @@
 layout: default
 title: Books
 permalink: "/books.html"
+ref: books
+order: 1
 ---
 
 # place holder text
