@@ -4,9 +4,7 @@ layout: page
 date: 2022-10-27
 ---
 
-#Stella's Christmas Family Tree
-
-![Stella's Christmas Family Tree cover](/images/Cover_Stellas_Christmas_Family_Tree.png)
+![Stella's Christmas Family Tree cover]({{ site.baseurl }}/images/Cover_Stellas_Christmas_Family_Tree.png)
 
 'Stella's Christmas Family Tree' tells the story of Stella, who finds herself on a magical festive journey through her family history. 
 
