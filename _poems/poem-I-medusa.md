@@ -2,6 +2,7 @@
 title: "I, Medusa"
 layout: page
 date: 2022-09-23
+excerpt_separator: <!--more-->
 ---
 
 > I, Medusa,  
@@ -12,7 +13,7 @@ Once, when I was young, intact,
 My girlish hair smooth, sleek, still, black,  
 Unwilling I could still attract.  
 O how the lowly fall!  
->
+> <!--more-->
 >I, Medusa,  
 I am used  
 To the abuse from all the folk who follow what they think’s my tale.  

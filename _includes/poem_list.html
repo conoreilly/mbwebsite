@@ -12,7 +12,7 @@
         <a class="post-link" href="{{ poem.url | absolute_url }}" title="{{ poem.title }}">{{ poem.title | escape }}</a>
       </h2>
 
-      {{ poem.excerpt | markdownify | truncatewords: 30 }}
+      {{ poem.excerpt | markdownify }}
 
     </li>
   {% endfor %}

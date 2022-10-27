@@ -2,6 +2,7 @@
 title: "Tereus and the Bad Sisters"
 layout: page
 date: 2022-10-15
+excerpt_separator: <!--more-->
 ---
 
 >I could have used some honeyed words, some chat-up line, some coaxing voice;  
@@ -11,7 +12,7 @@ Sisters, you both look the same;
 There’s hardly difference in your name;  
 So tell me, really, where’s the blame?  
 My role is lord and master.  
->
+> <!--more-->
 >Was I not fair? Did I not warn you, “Don’t resist me!”? Sister, I insisted.  
 But would you listen? No, you cried and screamed;  
 You threatened and you whined.  
