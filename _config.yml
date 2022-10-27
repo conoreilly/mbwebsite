@@ -1,8 +1,13 @@
 title: "M.B. O'Reilly's site"
 description: "This is all the info you need on MB O'Reilly."
+
+show_downloads: "false"
+
 email: "mb@mboreilly.com"
 twitter: "https://twitter.com/mb_oreilly"
 twitter_name: "@mb_oreilly"
+
+author_name: "M.B. O'Reilly"
 
 url: "https://conoreilly.github.io"
 baseurl: "/mbwebsite"
@@ -23,3 +28,5 @@ collections:
  poems:
   output: true
 
+github:
+  owner_name: "conoreilly"
