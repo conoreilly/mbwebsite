@@ -4,7 +4,9 @@ layout: page
 date: 2008-03-01
 ---
 
-#Tales from Olympus
+# Tales from Olympus
+
+![Tales from Olympus cover](/images/Cover_Tales_From_Olympus.png)
 
 'Tales from Olympus' was my first published book, back in 2008.
 
