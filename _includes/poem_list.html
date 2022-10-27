@@ -2,7 +2,7 @@
 <h2>Latest poems</h2>
 
 <ul class="post-list">
-  {% for poem in site.poems %}
+  {% for poem in site.poems reversed %}
     <li>
 
       {% assign date_format = site.cayman-blog.date_format | default: "%b %-d, %Y" %}

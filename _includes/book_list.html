@@ -2,7 +2,7 @@
 <h2>Latest books</h2>
 
 <ul class="post-list">
-  {% for book in site.books %}
+  {% for book in site.books reversed %}
     <li>
 
       {% assign date_format = site.cayman-blog.date_format | default: "%b %-d, %Y" %}
