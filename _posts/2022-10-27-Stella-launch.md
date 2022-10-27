@@ -7,7 +7,7 @@ date: 2022-10-27
 
 My [new book]({{ site.baseurl }}{% link _books/book-stella-christmas-family-tree.md %}) is out now, just in time for Christmas!
 
-![Stella's Christmas Family Tree cover]({{ site.baseurl }}/images/Cover_Stellas_Christmas_Family_Tree.png)
+[![Stella's Christmas Family Tree cover]({{ site.baseurl }}/images/Cover_Stellas_Christmas_Family_Tree.png)]({{ site.baseurl }}{% link _books/book-stella-christmas-family-tree.md %})
 
 'Stella's Christmas Family Tree' tells the story of Stella, who finds herself on a magical festive journey through her family history. 
 
