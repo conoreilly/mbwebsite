@@ -7,9 +7,11 @@ order: 0
 
 ---
 
+![M.B. O'Reilly]({{ site.baseurl }}/images/MB_OReilly_headshot.png)
 
-## Project
-{{site.description}}
+M.B. O'Reilly is a classics teacher and author.
 
+She lives in Glasgow with her husband and 3 boys - a bit of a handful!
 
-[Go to the Home Page]({{ '/' | absolute_url }})
+As well as being a published author, when not writing or teaching she's also a dab hand a 'upcycling' furniture.
+
