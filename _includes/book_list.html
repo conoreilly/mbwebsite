@@ -1,12 +1,3 @@
-<h2>Books</h2>
-<ul>
-
-{% for book in site.books %}
-  <!--- <li>{{ book.title }}: <a href="{{ post.url | relative_url }}">{{ book.title }}</a></li> --->
-  <li>{{ book.title }}: <a href="{{ site.baseurl }}{{ book.url }}">{{ book.title }}</a></li>
-{% endfor %}
-
-</ul>
 
 <h2>Latest books</h2>
 
