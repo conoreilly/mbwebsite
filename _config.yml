@@ -11,7 +11,7 @@ twitter_name: "@mb_oreilly"
 author_name: "M.B. O'Reilly"
 
 url: "https://conoreilly.github.io"
-baseurl: "/mbwebsite"
+baseurl: ""
 
 <!--- remote_theme: pages-themes/cayman@v0.2.0 --->
 
