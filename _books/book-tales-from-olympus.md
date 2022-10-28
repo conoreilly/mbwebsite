@@ -4,7 +4,7 @@ layout: page
 date: 2008-03-01
 ---
 
-[![Tales from Olympus cover](/images/Cover_Tales_From_Olympus.png)]({{ site.baseurl }}{% link _books/book-tales-from-olympus.md %})
+[![Tales from Olympus cover](/images/Cover_Tales_From_Olympus.png)]({% link _books/book-tales-from-olympus.md %})
 
 'Tales from Olympus' was my first published book, back in 2008.
 
