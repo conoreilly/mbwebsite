@@ -7,7 +7,7 @@ order: 0
 
 ---
 
-![M.B. O'Reilly]({{ site.baseurl }}/images/MB_OReilly_headshot.png)
+![M.B. O'Reilly](./images/MB_OReilly_headshot.png)
 
 M.B. O'Reilly is a classics teacher and author.
 
