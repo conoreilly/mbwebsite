@@ -22,13 +22,14 @@ google_analytics: "G-BF0XDRL5VB"
 
 plugins:
 - jekyll-remote-theme
-- jekyll-seo-tag 
+- jekyll-seo-tag
+- jekyll-feed 
 
 
 include: ["_pages"]
 
 collections:
- posts:
+ posts: 
   output: true
  books:
   output: true

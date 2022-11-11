@@ -41,3 +41,6 @@ gem "webrick", "~> 1.7"
 gem "jekyll-theme-cayman-blog"
 
 gem 'jekyll-seo-tag'
+
+# add jekyll feed for RSS
+gem 'jekyll-feed'
