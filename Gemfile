@@ -39,3 +39,5 @@ gem "webrick", "~> 1.7"
 # gem "github-pages", group: :jekyll_plugins
 
 gem "jekyll-theme-cayman-blog"
+
+gem 'jekyll-seo-tag'
