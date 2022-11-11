@@ -18,6 +18,8 @@ baseurl: "/mbwebsite"
 
 <!--- remote_theme: pages-themes/cayman@v0.2.0 --->
 
+google_analytics: G-BF0XDRL5VB
+
 plugins:
 - jekyll-remote-theme
 - jekyll-seo-tag 
