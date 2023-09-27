@@ -44,3 +44,6 @@ gem 'jekyll-seo-tag'
 
 # add jekyll feed for RSS
 gem 'jekyll-feed'
+
+# add twitter plugin
+gem 'jekyl-twitter-plugin'

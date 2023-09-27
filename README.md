@@ -7,3 +7,5 @@ Now live at [mboreilly.com](http://mboreilly.com)
 GitHub Pages site powered by Jekyll
 
 Theme used is [Cayman Blog](https://lorepirri.github.io/cayman-blog/) by [lorepirrie](https://github.com/lorepirri)
+
+Twitter feed uses [jekyll-twitter-plugin](https://github.com/rob-murray/jekyll-twitter-plugin) by [rob-murray](https://github.com/rob-murray)
