@@ -4,7 +4,7 @@ title: My Poems
 tagline: Some of them even rhyme...
 permalink: "/poems.html"
 ref: poems
-order: 2
+order: 3
 ---
 
 You can find all my latest poems below.
