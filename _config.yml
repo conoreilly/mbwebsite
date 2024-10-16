@@ -34,6 +34,8 @@ collections:
   output: true
  poems:
   output: true
+ articles:
+  output: true
 
 github:
   owner_name: "conoreilly"
