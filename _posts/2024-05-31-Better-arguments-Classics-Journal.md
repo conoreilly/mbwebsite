@@ -9,3 +9,4 @@ Delighted to have my article on the 'Better Arguments' project I've been working
 
 You can read the article [here](https://www.cambridge.org/core/journals/journal-of-classics-teaching/article/report-on-better-arguments-in-scottish-classrooms/7998511F36751A5B5D384AA8D230C6CC). 
 
+This [article]({% link _articles/article-better-arguments.md %}) has more info.
