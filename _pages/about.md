@@ -15,3 +15,4 @@ She lives in Glasgow with her husband and 3 boys - a bit of a handful!
 
 As well as being a published author, when not writing or teaching she's also a dab hand a 'upcycling' furniture.
 
+[https://orcid.org/0009-0000-3012-4328](https://orcid.org/0009-0000-3012-4328)

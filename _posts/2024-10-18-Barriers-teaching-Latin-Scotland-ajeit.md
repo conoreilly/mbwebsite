@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Latin Challenges: Perceptions, Policy and Curriculum for Excellence
+title: "Latin Challenges: Perceptions, Policy and Curriculum for Excellence"
 author: M.B. O'Reilly
 date: 2024-10-18
 ---
