@@ -6,6 +6,9 @@ permalink: "/twitterFeed.html"
 ref: twitterFeed
 order: 4
 ---
+You can find all my latest tweets below (if you're logged in to Twitter already).
+
+
 
  <div>
         <a class="twitter-timeline" 

@@ -36,13 +36,20 @@ gem "http_parser.rb", "~> 0.6.0", :platforms => [:jruby]
 
 gem "webrick", "~> 1.7"
 
-# gem "github-pages", group: :jekyll_plugins
+# gem "github-pages", 
 
-gem "jekyll-theme-cayman-blog"
+group: :jekyll_plugins do
 
-gem 'jekyll-seo-tag'
+  gem "jekyll-theme-cayman-blog"  
 
-# add jekyll feed for RSS
-gem 'jekyll-feed'
+  # add meta tags to help with SEO
+  gem "jekyll-seo-tag"
 
+  # add jekyll feed for RSS
+  gem "jekyll-feed"
+
+  # add sitemap file for search engines
+  gem "jekyll-sitemap"
+
+end
 
