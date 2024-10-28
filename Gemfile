@@ -23,7 +23,7 @@ group :jekyll_plugins do
   # add meta tags to help with SEO
   gem "jekyll-seo-tag"
   # add jekyll feed for RSS
-  gem "jekyll-feed"
+  #gem "jekyll-feed"
   # add sitemap file for search engines
   gem "jekyll-sitemap"
 
