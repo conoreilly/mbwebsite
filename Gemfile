@@ -17,7 +17,7 @@ gem "minima", "~> 2.5"
 
 # If you have any plugins, put them here!
 group :jekyll_plugins do
-  gem "jekyll-feed", "~> 0.12"
+  gem "jekyll-feed", "~> 0.17.0"
   # theme
   gem "jekyll-theme-cayman-blog"  
   # add meta tags to help with SEO
