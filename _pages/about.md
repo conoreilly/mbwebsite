@@ -17,4 +17,4 @@ As well as being a published author, when not writing or teaching she's also a d
 
 You can find me on LinkedIn [here](https://www.linkedin.com/in/mboreilly)
 
-Some of my articles are also available through [Orcid](https://orcid.org/0009-0000-3012-4328)
+Some of my articles are also available through [ORCID](https://orcid.org/0009-0000-3012-4328)
