@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Classical literature and emotional literacy: The role of classical texts in developing emotional learning in the Scottish curriculu"
+title: "Classical literature and emotional literacy: The role of classical texts in developing emotional learning in the Scottish curriculum"
 author: M.B. O'Reilly
 date: 2026-05-29
 ---

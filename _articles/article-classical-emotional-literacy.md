@@ -1,5 +1,5 @@
 ---
-title: "The role of classical texts in developing emotional learning in the Scottish curriculum"
+title: "Classical literature and emotional literacy: The role of classical texts in developing emotional learning in the Scottish curriculum"
 layout: page
 date: 2026-05-29
 ---
